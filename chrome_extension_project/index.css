@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #4840dc;
+    border-radius: 8px;
+    margin-bottom: 4px;
+}
+
+button {
+    background: #4840dc;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid #4840dc;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    
+}
+
+#delete-btn {
+    background: white;
+    color: #4840dc;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    
+}
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: #101010;
+}
+
+

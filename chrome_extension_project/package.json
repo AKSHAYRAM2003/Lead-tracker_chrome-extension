@@ -1,0 +1,17 @@
+  
+   {
+  "name": "project",
+  "version": "1.0",
+  "description": "Link Saver is a handy Chrome extension that lets you effortlessly save and manage links while browsing the web. With just a click, you can save the URL of your current tab or manually input links for later access. Need to clean up your saved URLs? No problem! Link Saver also includes a delete feature, allowing you to remove individual links or clear your entire list with ease.",
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "latest"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+   
+  }
+}
